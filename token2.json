@@ -1,0 +1,15 @@
+{
+    "name": "chain",
+    "description": "using this token for brodasting rights",
+    "image": "https://www.bing.com/images/create/a-token-representing-broadcasting-rights-or-bandwi/1-66117f3666964f6097277f789e5f5e8e?id=Uhs%2b3ty%2bi8vMMwmz%2fYjfqw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG3.K.uxcZLB093Ts0XWROP0&frame=sydedg&FORM=SYDBIC",
+    "attributes": [
+        {
+            "trait_type": "token2",
+            "value": "value"
+        },
+        {
+            "trait_type": "token2",
+            "value": "value"
+        }
+    ]
+}
